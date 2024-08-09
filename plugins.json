@@ -4,11 +4,11 @@
     "Name": "BiS Tracker",
     "Punchline": "Track your personal bis!",
     "Description": "Track your bis. /bis to get started.",
-    "Changelog": "- Added a plugin where there wasn't one.",
+    "Changelog": "- Better list sorting for the job list.",
     "IsHide": false,
     "InternalName": "BisTracker",
-    "AssemblyVersion": "1.0.0.0",
-    "TestingAssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.1.1",
+    "TestingAssemblyVersion": "1.0.1.1",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
@@ -16,7 +16,7 @@
     "DownloadCount": 0,
     "LastUpdate": 1723199061,
     "DownloadLinkInstall": "https://github.com/Yhumi/BisTracker/releases/download/public/latest.zip",
-    "SupportsProfiles": true,
+    "SupportsProfiles": false,
     "IconUrl": "https://raw.githubusercontent.com/Yhumi/BisTracker/master/BisTracker/Images/dog.png"
   }
 ]
