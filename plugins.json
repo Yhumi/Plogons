@@ -20,5 +20,28 @@
     "DownloadLinkTesting": "https://github.com/Yhumi/BisTracker/releases/download/testing/latest.zip",
     "SupportsProfiles": false,
     "IconUrl": "https://raw.githubusercontent.com/Yhumi/BisTracker/master/BisTracker/Images/dog.png"
+  },
+  {
+    "Author": "Yhumi",
+    "Name": "AnonRetainer",
+    "Punchline": "Hide your retainers from prying eyes.",
+    "Description": "Hide your retainers from prying eyes. /anonretainer to get started.",
+    "Changelog": "- Plugin created.",
+    "IsHide": false,
+    "InternalName": "RetainerAnonymiser",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "TestingDalamudApiLevel": 10,
+    "DownloadCount": 0,
+    "LastUpdate": 1724086506,
+    "DownloadLinkInstall": "https://github.com/Yhumi/AnonRetainer/releases/download/release/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Yhumi/AnonRetainer/releases/download/release/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Yhumi/AnonRetainer/releases/download/release/latest.zip",
+    "SupportsProfiles": false,
+    "IconUrl": "https://raw.githubusercontent.com/Yhumi/AnonRetainer/master/RetainerAnonymiser/Images/wetried.png"
   }
 ]
+
