@@ -7,8 +7,8 @@
     "Changelog": "- AutoMelding, AutoEquip, Overmelding and more.",
     "IsHide": false,
     "InternalName": "BisTracker",
-    "AssemblyVersion": "1.2.2.3",
-    "TestingAssemblyVersion": "1.2.2.3",
+    "AssemblyVersion": "1.2.2.4",
+    "TestingAssemblyVersion": "1.2.2.4",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
@@ -19,7 +19,7 @@
     "DownloadLinkUpdate": "https://github.com/Yhumi/BisTracker/releases/download/public/latest.zip",
     "DownloadLinkTesting": "https://github.com/Yhumi/BisTracker/releases/download/testing/latest.zip",
     "SupportsProfiles": false,
-    "IconUrl": "https://raw.githubusercontent.com/Yhumi/BisTracker/master/BisTracker/Images/dog.png"
+    "IconUrl": "https://safe.miyei.me/3ugPmRPb.png"
   },
   {
     "Author": "Yhumi",
@@ -41,7 +41,7 @@
     "DownloadLinkUpdate": "https://github.com/Yhumi/AnonRetainer/releases/download/release/latest.zip",
     "DownloadLinkTesting": "https://github.com/Yhumi/AnonRetainer/releases/download/release/latest.zip",
     "SupportsProfiles": false,
-    "IconUrl": "https://raw.githubusercontent.com/Yhumi/AnonRetainer/master/RetainerAnonymiser/Images/wetried.png"
+    "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
   }
 ]
 
