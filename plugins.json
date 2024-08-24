@@ -8,7 +8,7 @@
     "IsHide": false,
     "InternalName": "BisTracker",
     "AssemblyVersion": "1.1.4.3",
-    "TestingAssemblyVersion": "1.2.2.0",
+    "TestingAssemblyVersion": "1.2.2.1",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
