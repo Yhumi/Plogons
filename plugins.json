@@ -42,6 +42,28 @@
     "DownloadLinkTesting": "https://github.com/Yhumi/AnonRetainer/releases/download/release/latest.zip",
     "SupportsProfiles": false,
     "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
+  },
+  {
+    "Author": "Yhumi",
+    "Name": "UcobClears",
+    "Punchline": "Show UCoB clears on adventure place.",
+    "Description": "Show UCoB clears on adventure place. /ucobclears for settings.",
+    "Changelog": "- Basic plugin release.",
+    "IsHide": false,
+    "InternalName": "UcobClears",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "TestingDalamudApiLevel": 10,
+    "DownloadCount": 0,
+    "LastUpdate": 1730995608,
+    "DownloadLinkInstall": "https://github.com/Yhumi/ucob-clears/releases/download/release/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Yhumi/ucob-clears/releases/download/release/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Yhumi/ucob-clears/releases/download/release/latest.zip",
+    "SupportsProfiles": false,
+    "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
   }
 ]
 
