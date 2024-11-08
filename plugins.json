@@ -51,14 +51,14 @@
     "Changelog": "- Fixed another rarer crash.",
     "IsHide": false,
     "InternalName": "UcobClears",
-    "AssemblyVersion": "1.1.2.1",
-    "TestingAssemblyVersion": "1.1.2.1",
+    "AssemblyVersion": "1.1.2.2",
+    "TestingAssemblyVersion": "1.1.2.2",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
     "TestingDalamudApiLevel": 10,
     "DownloadCount": 0,
-    "LastUpdate": 1731024050,
+    "LastUpdate": 1731030278,
     "DownloadLinkInstall": "https://github.com/Yhumi/ucob-clears/releases/download/release/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Yhumi/ucob-clears/releases/download/release/latest.zip",
     "DownloadLinkTesting": "https://github.com/Yhumi/ucob-clears/releases/download/release/latest.zip",
@@ -66,4 +66,3 @@
     "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
   }
 ]
-
