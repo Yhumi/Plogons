@@ -69,7 +69,7 @@
     "Author": "Yhumi",
     "Name": "FC Chest Checker",
     "InternalName": "FCChestChecker",
-    "AssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.0.0.2",
     "IsHide": false,
     "Punchline": "Check FC Chest with a command.",
     "Description": "Check FC Chest when searching for an item.",
