@@ -64,5 +64,22 @@
     "DownloadLinkTesting": "https://github.com/Yhumi/ucob-clears/releases/download/release/latest.zip",
     "SupportsProfiles": false,
     "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
+  },
+  {
+    "Author": "Yhumi",
+    "Name": "FC Chest Checker",
+    "InternalName": "FCChestChecker",
+    "AssemblyVersion": "1.0.0.0",
+    "IsHide": false,
+    "Punchline": "Check FC Chest with a command.",
+    "Description": "Check FC Chest when searching for an item.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 11,
+    "LastUpdate": 1736504184,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/Yhumi/FCChestChecker/releases/download/release/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Yhumi/FCChestChecker/releases/download/release/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
   }
 ]
