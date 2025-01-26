@@ -18,7 +18,7 @@
     "DownloadLinkInstall": "https://github.com/Yhumi/BisTracker/releases/download/public/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Yhumi/BisTracker/releases/download/public/latest.zip",
     "DownloadLinkTesting": "https://github.com/Yhumi/BisTracker/releases/download/testing/latest.zip",
-    "SupportsProfiles": false,
+    "SupportsProfiles": true,
     "IconUrl": "https://safe.miyei.me/3ugPmRPb.png"
   },
   {
@@ -40,7 +40,7 @@
     "DownloadLinkInstall": "https://github.com/Yhumi/AnonRetainer/releases/download/release/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Yhumi/AnonRetainer/releases/download/release/latest.zip",
     "DownloadLinkTesting": "https://github.com/Yhumi/AnonRetainer/releases/download/release/latest.zip",
-    "SupportsProfiles": false,
+    "SupportsProfiles": true,
     "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
   },
   {
@@ -62,7 +62,7 @@
     "DownloadLinkInstall": "https://github.com/Yhumi/ucob-clears/releases/download/release/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Yhumi/ucob-clears/releases/download/release/latest.zip",
     "DownloadLinkTesting": "https://github.com/Yhumi/ucob-clears/releases/download/release/latest.zip",
-    "SupportsProfiles": false,
+    "SupportsProfiles": true,
     "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
   },
   {
@@ -79,6 +79,28 @@
     "DownloadCount": 0,
     "DownloadLinkInstall": "https://github.com/Yhumi/FCChestChecker/releases/download/release/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Yhumi/FCChestChecker/releases/download/release/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
+  },
+  {
+    "Author": "Yhumi",
+    "Name": "Item Display",
+    "Punchline": "Create item count displays.",
+    "Description": "Create item count displays. /itemdisplay for settings.",
+    "Changelog": "- v1.0.0.0 functionality",
+    "IsHide": false,
+    "InternalName": "UcobClears",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 11,
+    "TestingDalamudApiLevel": 11,
+    "DownloadCount": 0,
+    "LastUpdate": 1731823037,
+    "DownloadLinkInstall": "https://github.com/Yhumi/ItemDisplay/releases/download/release/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Yhumi/ItemDisplay/releases/download/release/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Yhumi/ItemDisplay/releases/download/release/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
   }
