@@ -89,7 +89,7 @@
     "Description": "Create item count displays. /itemdisplay for settings.",
     "Changelog": "- v1.0.0.0 functionality",
     "IsHide": false,
-    "InternalName": "UcobClears",
+    "InternalName": "ItemDisplay",
     "AssemblyVersion": "1.0.0.0",
     "TestingAssemblyVersion": "1.0.0.0",
     "IsTestingExclusive": false,
