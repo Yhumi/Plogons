@@ -103,5 +103,27 @@
     "DownloadLinkTesting": "https://github.com/Yhumi/ItemDisplay/releases/download/release/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
+  },
+  {
+    "Author": "Yhumi",
+    "Name": "UCoB Neurolink Scoring",
+    "Punchline": "Score your neurolink placement in UCoB! /ucobscoring.",
+    "Description": "Score your neurolink placement in UCoB! /ucobscoring for settings.",
+    "Changelog": "- Plugin created.",
+    "IsHide": false,
+    "InternalName": "UcobNeuroScoring",
+    "AssemblyVersion": "0.0.0.1",
+    "TestingAssemblyVersion": "0.0.0.1",
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 11,
+    "TestingDalamudApiLevel": 11,
+    "DownloadCount": 0,
+    "LastUpdate": 1740008930,
+    "DownloadLinkInstall": "https://github.com/Yhumi/UcobNeuroScoring/releases/download/release/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Yhumi/UcobNeuroScoring/releases/download/release/latest.zipp",
+    "DownloadLinkTesting": "https://github.com/Yhumi/UcobNeuroScoring/releases/download/release/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
   }
 ]
