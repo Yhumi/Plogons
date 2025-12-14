@@ -125,5 +125,27 @@
     "DownloadLinkTesting": "https://github.com/Yhumi/UcobNeuroScoring/releases/download/release/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
+  },
+  {
+    "Author": "Yhumi",
+    "Name": "Gag Plugin",
+    "Punchline": "Gag a player - Intended to be used with Puppetmaster.",
+    "Description": "Gag a player - Intended to be used with Puppetmaster.",
+    "Changelog": "",
+    "IsHide": false,
+    "InternalName": "GagPlugin",
+    "AssemblyVersion": "0.0.0.1",
+    "TestingAssemblyVersion": "0.0.0.1",
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "DownloadCount": 0,
+    "LastUpdate": 1765708534,
+    "DownloadLinkInstall": "https://github.com/Yhumi/GagPlugin/releases/download/release/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Yhumi/GagPlugin/releases/download/release/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Yhumi/GagPlugin/releases/download/release/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
   }
 ]
