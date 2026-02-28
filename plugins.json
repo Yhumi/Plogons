@@ -147,5 +147,27 @@
     "DownloadLinkTesting": "https://github.com/Yhumi/GagPlugin/releases/download/release/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
+  },
+  {
+    "Author": "Yhumi",
+    "Name": "Yhumi Tweaks",
+    "Punchline": "Yhumi's Quality of Life'.",
+    "Description": "A collection of Tweaks and QoL I really wanted..",
+    "Changelog": "",
+    "IsHide": false,
+    "InternalName": "YhumiTweaks",
+    "AssemblyVersion": "0.0.0.1",
+    "TestingAssemblyVersion": "0.0.0.1",
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "TestingDalamudApiLevel": 14,
+    "DownloadCount": 0,
+    "LastUpdate": 1772294192,
+    "DownloadLinkInstall": "https://github.com/Yhumi/YhumiTweaks/releases/download/release/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Yhumi/YhumiTweaks/releases/download/release/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Yhumi/YhumiTweaks/releases/download/release/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
   }
 ]
