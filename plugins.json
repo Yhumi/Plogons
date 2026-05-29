@@ -182,13 +182,13 @@
     "TestingAssemblyVersion": "0.0.0.1",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
-    "TestingDalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
     "DownloadCount": 0,
     "LastUpdate": 1780075111,
-    "DownloadLinkInstall": "https://safe.miyei.me/tEUUvDM1.zip",
-    "DownloadLinkUpdate": "https://safe.miyei.me/tEUUvDM1.zip",
-    "DownloadLinkTesting": "https://safe.miyei.me/tEUUvDM1.zip",
+    "DownloadLinkInstall": "https://safe.miyei.me/2kamoqb4.zip",
+    "DownloadLinkUpdate": "https://safe.miyei.me/2kamoqb4.zip",
+    "DownloadLinkTesting": "https://safe.miyei.me/2kamoqb4.zip",
     "SupportsProfiles": true,
     "IconUrl": ""
   }
