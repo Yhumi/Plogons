@@ -169,5 +169,27 @@
     "DownloadLinkTesting": "https://github.com/Yhumi/YhumiTweaks/releases/download/release/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
+  },
+  {
+    "Author": "Yhumi",
+    "Name": "Yhumi Fishing",
+    "Punchline": "Yhumi.Pet Fishing Bot Plugin.",
+    "Description": "A collection of Tweaks and QoL I really wanted..",
+    "Changelog": "",
+    "IsHide": false,
+    "InternalName": "YhumiFishing",
+    "AssemblyVersion": "0.0.0.1",
+    "TestingAssemblyVersion": "0.0.0.1",
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "TestingDalamudApiLevel": 14,
+    "DownloadCount": 0,
+    "LastUpdate": 1780075111,
+    "DownloadLinkInstall": "https://safe.miyei.me/tEUUvDM1.zip",
+    "DownloadLinkUpdate": "https://safe.miyei.me/tEUUvDM1.zip",
+    "DownloadLinkTesting": "https://safe.miyei.me/tEUUvDM1.zip",
+    "SupportsProfiles": true,
+    "IconUrl": ""
   }
 ]
