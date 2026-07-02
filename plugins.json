@@ -191,5 +191,27 @@
     "DownloadLinkTesting": "https://github.com/Yhumi/YhumiFishing/releases/download/testing/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": ""
+  },
+  {
+    "Author": "Ereti (w/ Minty)",
+    "Name": "Magitek Clicker",
+    "Punchline": "Click click pup!",
+    "Description": "Click click pup!",
+    "Changelog": "- Player whitelisting!",
+    "IsHide": false,
+    "InternalName": "MagitekClicker",
+    "AssemblyVersion": "0.0.3.0",
+    "TestingAssemblyVersion": "0.0.3.0",
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "DownloadCount": 0,
+    "LastUpdate": 1783007464,
+    "DownloadLinkInstall": "https://github.com/Yhumi/MagitekClicker/releases/download/temp/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Yhumi/MagitekClicker/releases/download/temp/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Yhumi/MagitekClicker/releases/download/temp/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": ""
   }
 ]
