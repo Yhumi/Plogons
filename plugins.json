@@ -1,6 +1,6 @@
 [
   {
-    "Author": "Yhumi",
+    "Author": "Mint",
     "Name": "BiS Tracker",
     "Punchline": "Track your personal bis!",
     "Description": "Track your bis. /bis to get started.",
@@ -22,7 +22,7 @@
     "IconUrl": "https://safe.miyei.me/3ugPmRPb.png"
   },
   {
-    "Author": "Yhumi",
+    "Author": "Mint",
     "Name": "AnonRetainer",
     "Punchline": "Hide your retainers from prying eyes.",
     "Description": "Hide your retainers from prying eyes. /anonretainer to get started.",
@@ -44,7 +44,7 @@
     "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
   },
   {
-    "Author": "Yhumi",
+    "Author": "Mint",
     "Name": "UcobClears",
     "Punchline": "Show UCoB clears on adventure place.",
     "Description": "Show UCoB clears on adventure place. /ucobclears for settings.",
@@ -66,7 +66,7 @@
     "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
   },
   {
-    "Author": "Yhumi",
+    "Author": "Mint",
     "Name": "FC Chest Checker",
     "InternalName": "FCChestChecker",
     "AssemblyVersion": "1.0.1.0",
@@ -83,7 +83,7 @@
     "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
   },
   {
-    "Author": "Yhumi",
+    "Author": "Mint",
     "Name": "Icon Display",
     "Punchline": "Create freely moveable macros and item count displays.",
     "Description": "Create freely moveable macros and item count displays. /icondisplay for settings.",
@@ -105,7 +105,7 @@
     "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
   },
   {
-    "Author": "Yhumi (w/ Vivian)",
+    "Author": "Mint (w/ Vivian)",
     "Name": "UCoB Neurolink Scoring",
     "Punchline": "Score your neurolink placement in UCoB! /ucobscoring.",
     "Description": "Score your neurolink placement in UCoB! /ucobscoring for settings.",
@@ -127,7 +127,7 @@
     "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
   },
   {
-    "Author": "Yhumi",
+    "Author": "Mint",
     "Name": "Gag Plugin",
     "Punchline": "Gag a player - Intended to be used with Puppetmaster.",
     "Description": "Gag a player - Intended to be used with Puppetmaster.",
@@ -149,21 +149,21 @@
     "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
   },
   {
-    "Author": "Yhumi",
-    "Name": "Yhumi Tweaks",
-    "Punchline": "Yhumi's Quality of Life.",
+    "Author": "Mint",
+    "Name": "Minty Tweaks",
+    "Punchline": "Mint's Quality of Life.",
     "Description": "A collection of Tweaks and QoL I really wanted..",
     "Changelog": "",
     "IsHide": false,
     "InternalName": "YhumiTweaks",
-    "AssemblyVersion": "0.0.0.1",
-    "TestingAssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "0.3.0.0",
+    "TestingAssemblyVersion": "0.3.0.0",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "TestingDalamudApiLevel": 14,
     "DownloadCount": 0,
-    "LastUpdate": 1772294192,
+    "LastUpdate": 1783277756,
     "DownloadLinkInstall": "https://github.com/Yhumi/YhumiTweaks/releases/download/release/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Yhumi/YhumiTweaks/releases/download/release/latest.zip",
     "DownloadLinkTesting": "https://github.com/Yhumi/YhumiTweaks/releases/download/release/latest.zip",
@@ -171,7 +171,7 @@
     "IconUrl": "https://safe.miyei.me/HJvz6hjP.png"
   },
   {
-    "Author": "Yhumi",
+    "Author": "Mint",
     "Name": "Yhumi Fishing",
     "Punchline": "Yhumi.Pet Fishing Bot Plugin.",
     "Description": "I wanna see what fish you catch...",
